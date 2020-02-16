@@ -1,4 +1,5 @@
 /target/
+LOG_PATH_IS_UNDEFINED/
 .idea/
 .settings/
 .DS_Store
